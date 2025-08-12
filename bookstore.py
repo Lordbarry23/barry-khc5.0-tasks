@@ -54,7 +54,7 @@ books = load_books()
 while True:
     print("=== Bookstore Inventory ===")
     print("1. Add Book")
-    print("2. View Books")
+    print("2. View all Books added")
     print("3. Exit")
 
     choice = input("Choose an option (1-3): ")
