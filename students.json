@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Alice",
+        "scores": {
+            "Math": 90,
+            "English": 80
+        },
+        "average": 85.0,
+        "grade": "B"
+    }
+]

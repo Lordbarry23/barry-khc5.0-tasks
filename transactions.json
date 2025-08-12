@@ -1,0 +1,12 @@
+[
+    {
+        "date": "2025-15-01",
+        "category": "food",
+        "amount": 6000.0
+    },
+    {
+        "date": "2025-17-01",
+        "category": "transport",
+        "amount": 1500.0
+    }
+]
