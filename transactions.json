@@ -8,5 +8,10 @@
         "date": "2025-17-01",
         "category": "transport",
         "amount": 1500.0
+    },
+    {
+        "date": "2025-10-16",
+        "category": "transport",
+        "amount": 2000.0
     }
 ]

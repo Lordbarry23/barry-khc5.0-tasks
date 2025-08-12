@@ -33,7 +33,7 @@ def save_transactions(transactions):
 
 # Add a transaction
 def add_transaction():
-    date = input("Enter date (YYYY-MM-DD) or leave blank for today: ")
+    date = input("Enter date following this format- (YYYY-MM-DD) or leave blank for today: ")
     if not date:
         date = datetime.today().strftime("%Y-%m-%d")
     category = input("Enter category (e.g., food, transport): ")
